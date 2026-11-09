@@ -1,0 +1,23 @@
+{
+  "name": "nakama-portfolio",
+  "version": "1.0.0",
+  "description": "NAKAMA — Digital Product Studio Portfolio",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test-suite.js",
+    "verify": "node run-verify.js",
+    "verify:dom": "node verify-dom.js"
+  },
+  "keywords": [
+    "nakama",
+    "portfolio",
+    "digital-product-studio"
+  ],
+  "author": "NAKAMA",
+  "license": "UNLICENSED",
+  "private": true,
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
